@@ -31,7 +31,8 @@ Dashboard Overview:
 Dark Mode Enabled:
 
 
-Interactive Charts:
+
+
 
 
 ## Future Enhancements
