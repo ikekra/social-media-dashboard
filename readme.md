@@ -24,7 +24,8 @@
 ## Screenshots
 
 Dashboard Overview:
-link
+![image](1444.png)
+
 
 
 Dark Mode Enabled:
