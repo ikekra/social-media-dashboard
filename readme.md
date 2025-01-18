@@ -52,6 +52,8 @@ Contributions are welcome!
 ## Contact
 
 Email:  chagankekra13@gmail.com
-GitHub: @ikekra
+
+
+GitHub: ikekra
 
 
