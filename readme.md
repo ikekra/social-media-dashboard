@@ -1,6 +1,6 @@
 ## Social Media Dashboard
 
-  A dynamic and responsive Social Media Dashboard designed to help users monitor and analyze their social media accounts effectively. This project provides a user-friendly interface for tracking performance metrics, engagement, and insights across multiple social platforms.
+      A dynamic and responsive Social Media Dashboard designed to help users monitor and analyze their social media accounts effectively. This project provides a user-friendly interface for tracking performance metrics, engagement, and insights across multiple social platforms.
 
 ## Features
 
