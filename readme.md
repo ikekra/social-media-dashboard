@@ -32,10 +32,6 @@ Dark Mode Enabled:
 ![image](144446.jpg)
 
 
-
-
-
-
 ## Future Enhancements
 
 Add support for additional social media platforms like LinkedIn, TikTok, etc.
@@ -54,6 +50,6 @@ Contributions are welcome!
 Email:  chagankekra13@gmail.com
 
 
-GitHub: ikekra
+GitHub: @ikekra
 
 
