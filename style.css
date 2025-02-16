@@ -1,7 +1,6 @@
 *, *::before, *::after{
     box-sizing: border-box;
 }
-
 :root {
   --text-color: #404040;
   --bg-color: #fff;
